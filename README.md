@@ -1,4 +1,4 @@
-# Ionic v3 ion-input bug on Android 9 on API 28
+# Ionic v3 ion-input bug on Android 9 and API 28
 
 For the history of this bug, see these Ionic v3 issues:
 
