@@ -1,9 +1,9 @@
 # Ionic v3 ion-input bug on Android 9 on API 28
 
-For the history of this bug, see:
+For the history of this bug, see these Ionic v3 issues:
 
-    - https://github.com/ionic-team/ionic-v3/issues/1049
-    - https://github.com/ionic-team/ionic-v3/issues/1056
+- [#1049](https://github.com/ionic-team/ionic-v3/issues/1049)
+- [#1056](https://github.com/ionic-team/ionic-v3/issues/1056)
     
 This project illustrated the bug. [@StefanRein](https://twitter.com/stefanrein) provided a [fix](https://github.com/ionic-team/ionic-v3/issues/1049#issuecomment-523813114), and this project has been updated to show how to implement that fix.
 
